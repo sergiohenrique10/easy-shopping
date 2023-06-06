@@ -1,5 +1,5 @@
 # Easy-Shopping
-<h1> Meu primeiro projeto responsivo.<h1>
+<h1> Meu primeiro projeto responsivo.:blush:<h1>
 <h2>liguagens utilizdas:</h2>
 - HTML <br>
 - CSS <br>
